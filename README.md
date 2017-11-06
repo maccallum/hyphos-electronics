@@ -1,10 +1,10 @@
 # HYPHOS --- John MacCallum
 
 ## Requirements
-Max/MSP >7 running on a Macintosh
-[odot](https://github.com/CNMAT/CNMAT-odot)
-A MIDI fader box of some sort (BCF2000, Kork Nano, etc).
-A >6 channel audio interface (3 channels for the click tracks, and 3 for the electronics).
+* Max/MSP >7 running on a Macintosh
+* [odot](https://github.com/CNMAT/CNMAT-odot)
+* A MIDI fader box of some sort (BCF2000, Kork Nano, etc).
+* A >6 channel audio interface (3 channels for the click tracks, and 3 for the electronics).
 
 ## Instructions
 1. Open electronics/hyphos.maxpat and click/hyphos_click.maxpat.
