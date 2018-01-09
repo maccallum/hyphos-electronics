@@ -3,6 +3,7 @@
 ## Requirements
 * Max/MSP >7 running on a Macintosh
 * [odot](https://github.com/CNMAT/CNMAT-odot)
+* [CNMAT Externals](https://github.com/CNMAT/CNMAT-Externs)
 * A MIDI fader box of some sort (BCF2000, Kork Nano, etc).
 * A >6 channel audio interface (3 channels for the click tracks, and 3 for the electronics).
 
